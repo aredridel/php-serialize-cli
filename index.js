@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const serde = require('php-serialize')
 
 const asyncMain = require('async-main').default
