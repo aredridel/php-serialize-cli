@@ -1,0 +1,24 @@
+{
+  "name": "php-serialize-cli",
+  "version": "1.0.0",
+  "description": "Convert PHP serialized objects to JSON and back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/php-serialize-cli.git"
+  },
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aredridel/php-serialize-cli/issues"
+  },
+  "homepage": "https://github.com/aredridel/php-serialize-cli#readme",
+  "dependencies": {
+    "async-main": "^1.0.2",
+    "get-stream": "^4.0.0",
+    "php-serialize": "^2.0.1"
+  }
+}
